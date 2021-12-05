@@ -9,5 +9,6 @@ public class Gittest {
         System.out.println("hot-fix10000");
         System.out.println("hot-fix");
         System.out.println("push");
+        System.out.println("push1000");
     }
 }
